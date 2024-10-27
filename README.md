@@ -5,19 +5,19 @@ Welcome to my GitHub profile! I'm a **final-year Electronics and Electrical Engi
 ---
 
 ### 🛠 Technical Skills
-- **Languages**: Embedded C, C++, Python
+- **Languages**: Embedded C, C++, Python,ARM Assembly
 - **Microcontrollers**: STM32, Raspberry Pi, ESP8266, PIC
 - **Driver Development**: Custom drivers for **STM32** peripherals
-- **Protocols**: SPI, I2C, UART
-- **Development Tools**: STM32CubeIDE, Thonny, MPLAB, KiCad
-- **Debugging Tools**: ST-LINK, Serial Wire Debug (SWD), Logic Analyzers
+- **Protocols**: SPI, I2C, UART, TCP/IP, Ethernet, RS232, RS485
+- **Development Tools**: STM32CubeIDE, Thonny, MPLAB, KiCad,Proteus,Matlab,
+- **Debugging Tools**: ST-LINK, Serial Wire Debug (SWD), Logic Analyzers,ARM GCC Embedded Toolchain
 
 ---
 
 ### 🌟 Featured Projects
 
 #### 📸 [FaceReco Door](https://github.com/your-repo-link)
-An advanced digital door lock system using **Raspberry Pi 4B, OpenCV, and facial recognition** technology, ensuring secure access control.
+An advanced digital door lock system using **Raspberry Pi 4B, Raspi Camera Module, OpenCV, and facial recognition** technology, ensuring secure access control.
 
 #### 📦 [Real-Time Inventory Management System](https://github.com/your-repo-link)
 Developed with **STM32 microcontroller** and **UART protocol**, this system logs carton usage in real-time, enhancing inventory accuracy and tracking.
