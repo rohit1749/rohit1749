@@ -19,7 +19,7 @@ Welcome to my GitHub profile! I'm a **final-year Electronics and Electrical Engi
 #### 📸 [FaceReco Door](https://github.com/rohit1749/Raspi_FaceRecoDoor)
 An advanced digital door lock system using **Raspberry Pi 4B, Raspi Camera Module, OpenCV, and facial recognition** technology, ensuring secure access control.
 
-#### 🔧 [Device Drivers for STM32F407](https://github.com/rohit1749/STM32drivers)
+#### 🔧 [Device Drivers for STM32F407 Microcontroller](https://github.com/rohit1749/STM32drivers)
 Bare-Metal device drivers for SPI,I2C,UART and GPIOs for STM32F407 microcontroller to facilitate seamless data handling between peripheral devices.
 
 #### 📦 [Real-Time Inventory Management System](https://github.com/rohit1749/Inventory-Management)
